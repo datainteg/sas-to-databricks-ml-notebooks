@@ -1,0 +1,17 @@
+# Ignore everything by default.
+*
+
+# Keep Git metadata and this ignore file.
+!.gitignore
+
+# Keep Markdown docs.
+!README.md
+!*.md
+
+# Keep notebooks.
+!notebooks/
+!notebooks/**/
+!notebooks/**/*.ipynb
+
+# Keep root-level notebooks too, if added later.
+!*.ipynb
