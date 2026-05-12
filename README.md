@@ -1,14 +1,14 @@
 # SAS to Databricks ML Notebooks
 
-Beginner-friendly notebooks for learning how SAS regression workflows map to Databricks, PySpark ML, and Matplotlib visualizations.
+Beginner-friendly notebooks for learning how SAS credit-pricing regression workflows map to Databricks, PySpark ML, and Matplotlib visualizations.
 
 ## Notebooks
 
 | Notebook | Focus |
 | --- | --- |
-| `notebooks/01_SIMPLE_SAS_to_Databricks_Linear_Polynomial_Regression.ipynb` | Linear regression, polynomial regression, basic model comparison |
-| `notebooks/02_MEDIUM_SAS_to_Databricks_Advanced_Regression.ipynb` | Multiple features, train-test split, pipelines, feature scaling |
-| `notebooks/03_ADVANCED_Enterprise_ML_Pipelines_SAS_Migration.ipynb` | Distributed data, cross-validation, model metadata, production-style patterns |
+| `notebooks/01_SIMPLE_SAS_to_Databricks_Linear_Polynomial_Regression.ipynb` | Simple credit-score pricing, linear regression, polynomial pricing curve |
+| `notebooks/02_MEDIUM_SAS_to_Databricks_Advanced_Regression.ipynb` | Credit/pricing financial features, train-test split, pipelines, feature scaling |
+| `notebooks/03_ADVANCED_Enterprise_ML_Pipelines_SAS_Migration.ipynb` | Enterprise credit-pricing data, cross-validation, model metadata, production-style patterns |
 | `notebooks/04_BEGINNER_Matplotlib_Features_Explained.ipynb` | Matplotlib basics: line, scatter, bar, histogram, legends, annotations, subplots |
 
 ## Who This Is For
